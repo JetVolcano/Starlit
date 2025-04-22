@@ -1,4 +1,4 @@
-package io.github.jetvolcano.starlit_beings;
+package com.jetvolcano.starlit_beings;
 
 import org.slf4j.Logger;
 

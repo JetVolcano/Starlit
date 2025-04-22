@@ -1,4 +1,4 @@
-package io.github.jetvolcano.starlit_beings.item;
+package com.jetvolcano.starlit_beings.item;
 
 import com.jetvolcano.starlit_beings.StarlitBeings;
 import net.neoforged.bus.api.IEventBus;

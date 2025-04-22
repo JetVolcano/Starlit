@@ -1,4 +1,4 @@
-package io.github.jetvolcano.starlit_beings;
+package com.jetvolcano.starlit_beings;
 
 import java.util.List;
 import java.util.Set;

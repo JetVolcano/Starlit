@@ -1,4 +1,4 @@
-package com.jetvolcano.starlit_beings;
+package com.jetvolcano.starlit;
 
 import java.util.List;
 import java.util.Set;
@@ -14,7 +14,7 @@ import net.neoforged.neoforge.common.ModConfigSpec;
 
 // An example config class. This is not required, but it's a good idea to have one to keep your config organized.
 // Demonstrates how to use Neo's config APIs
-@EventBusSubscriber(modid = StarlitBeings.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
+@EventBusSubscriber(modid = Starlit.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
 public class Config
 {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
